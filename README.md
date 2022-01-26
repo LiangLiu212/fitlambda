@@ -2,7 +2,7 @@
 1 dimension fit with multiple function
 
 ## Example
-[![Product Name Screen Shot][product-screenshot]](https://github.com/LiangLiu212/fitlambda/blob/main/example.png)
+![product-screenshot](https://github.com/LiangLiu212/fitlambda/blob/main/example.png)
 
 ## Usage
 
