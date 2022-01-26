@@ -1,7 +1,7 @@
 using namespace std;
 using namespace RooFit;
-R__LOAD_LIBRARY(/Users/liang/Documents/Anti-neutron/RooFit/RooMyPdf/RooStudent_cxx.so);
-R__LOAD_LIBRARY(/Users/liang/Documents/Anti-neutron/RooFit/RooMyPdf/RooBifurStudent_cxx.so);
+R__LOAD_LIBRARY(RooMyPdf/RooStudent_cxx.so);
+R__LOAD_LIBRARY(RooMyPdf/RooBifurStudent_cxx.so);
 double efficiency[12][20];
 void PlotFit(RooPlot *xframe, RooPlot *pullframe);
 void PlotFit(const char *name, const char *title, RooPlot *xframe, RooPlot *pullframe, int N_obj);
